@@ -6,7 +6,8 @@
 <p align="center">
   <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Location-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
   <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Focus-Web%20Security%20%26%20Research-00ADB5?style=flat-square&logo=target&logoColor=white" alt="Focus" /></a>
-  <a href="mailto:asep@example.com"><img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-393E46?style=flat-square" alt="Status" /></a>
+  <a href="mailto:aseprizkir4@gmail.com"><img src="https://img.shields.io/badge/Email-aseprizkir4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -119,8 +120,9 @@ Template for adding new repositories:
 Feel free to connect, discuss security topics, or collaborate on open-source tools:
 
 - 🌐 **GitHub**: [@4sepr1zki](https://github.com/4sepr1zki)
-- 💼 **LinkedIn**: [linkedin.com/in/asep-rizki](https://www.linkedin.com/in/) <!-- Replace with your personal LinkedIn slug -->
-- ✉️ **Email**: [contact.aseprizki@gmail.com](mailto:contact.aseprizki@gmail.com) <!-- Replace with your preferred contact email -->
+- 💼 **LinkedIn**: [Asep Rizki Ramadhan](https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/)
+- ✍️ **Blog / Articles**: [Kompasiana Profile](https://www.kompasiana.com/aseprizki4578)
+- ✉️ **Email**: [aseprizkir4@gmail.com](mailto:aseprizkir4@gmail.com)
 
 ---
 <div align="center">
