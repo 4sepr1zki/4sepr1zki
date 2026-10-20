@@ -16,23 +16,20 @@
 
 ## 📌 Tentang Saya
 
-Saya adalah mahasiswa Sistem Informasi dan Teknologi dari Indonesia dengan ketertarikan mendalam pada **Cybersecurity**, **Web Application Security**, dan **Vulnerability Research**.
+Saya Asep Rizki Ramadhan, mahasiswa Program Studi Sistem Teknologi Informasi di Institut Teknologi & Bisnis Semarang yang memiliki ketertarikan pada dunia IT, khususnya Cybersecurity dengan fokus pada Penetration Testing dan keamanan aplikasi web.
 
-Perjalanan belajar saya berakar pada praktik langsung dan eksplorasi mandiri. Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih tangguh.
+Saya mempelajari keamanan sistem melalui praktik langsung, mulai dari mengidentifikasi dan menganalisis kerentanan aplikasi web hingga melakukan pelaporan melalui program seperti bug bounty atau VDP. Selain itu, saya juga memiliki pengalaman dalam System Administration (SysAdmin), khususnya pengelolaan server Linux, server hardening, konfigurasi web server, serta investigasi dan penanganan insiden keamanan siber.
 
-- 🔍 **Riset & Praktik Nyata**: Mempelajari *attack surfaces*, menganalisis kerentanan, dan berpartisipasi dalam *responsible disclosure*.
-- 🛠️ **Pengembangan Tools**: Mengembangkan skrip otomatisasi dan utilitas untuk membantu proses asesmen keamanan.
-- 🛡️ **Pertahanan & Hardening**: Berpengalaman dalam pengelolaan server Linux, *security hardening* web server (Nginx/Apache), investigasi insiden (*website defacement*), dan deteksi *webshell*.
-- ⚖️ **Prinsip Etis**: Berkomitmen penuh pada etika *responsible disclosure* serta pengujian hanya pada lingkungan yang telah memiliki izin resmi (*authorized testing*).
+Saat ini, saya terus mengembangkan kemampuan di bidang keamanan aplikasi web dan infrastruktur server, sekaligus mengeksplorasi pengembangan tools untuk membantu proses asesmen dan otomatisasi keamanan.
 
 ---
 
 ## 🎯 Fokus Saat Ini
 
-- Mendalami metodologi **Web Application Penetration Testing** dan standar **OWASP Top 10**.
-- Mengembangkan tools asesmen keamanan otomatis berbasis **Python**.
-- Mengeksplorasi keamanan CMS dan platform akademik, khususnya ekosistem **WordPress** dan **Open Journal Systems (OJS)**.
-- Meningkatkan ketahanan server melalui *systematic hardening* dan analisis mitigasi insiden siber.
+- Mendalami lebih lanjut Penetration Testing sesuai standar OWASP Top 10.
+- Mengembangkan tools asesmen keamanan otomatis berbasis AI.
+- Mengeksplorasi keamanan CMS dan platform akademik, khususnya ekosistem WordPress dan Open Journal Systems (OJS).
+- Meningkatkan ketahanan server melalui systematic hardening dan analisis mitigasi insiden siber.
 
 ---
 
@@ -76,14 +73,11 @@ Perjalanan belajar saya berakar pada praktik langsung dan eksplorasi mandiri. Sa
 
 ---
 
-## 🔬 Riset Keamanan & Responsible Disclosure
+## 🔬 Pengalaman & Pencapaian
 
-Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset saya:
-
-- **Batasan Etis**: Seluruh aktivitas pemindaian, pengintaian (*reconnaissance*), dan asesmen keamanan hanya dijalankan pada sistem yang telah memberikan izin resmi, atau pada lingkungan laboratorium lokal.
-- **Responsible Disclosure**: Apabila menemukan kerentanan atau miskonfigurasi, pelaporan dikoordinasikan secara tertutup langsung kepada pihak pengelola terkait sesuai prosedur pelaporan etis tanpa publikasi prematur.
-- **Analisis Akar Masalah**: Mengutamakan penyusunan rekomendasi mitigasi dan perbaikan struktural untuk membantu memperkuat sistem secara berkelanjutan.
-
+- 🏆 **19 Sertifikat Apresiasi dan Penghargaan** — Mendapatkan 19 sertifikat apresiasi dan penghargaan dari berbagai institusi atas kontribusi di bidang cybersecurity. Lihat selengkapnya di [LinkedIn](https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/).
+- 🌐 **UNESCO Hall of Fame 2026** — Mendapatkan pengakuan sebagai *security researcher* setelah melaporkan kerentanan keamanan yang tercatat dalam [UNESCO Vulnerability Disclosure Hall of Fame](https://www.unesco.org/en/vulnerability-disclosure).
+- 🛡️ **Server Security & Incident Response** — Melakukan konfigurasi keamanan server untuk memitigasi aktivitas bot berbahaya, serta membantu mendeteksi dan membersihkan konten judi online pada lingkungan server.
 ---
 
 ## 📂 Proyek Pilihan
