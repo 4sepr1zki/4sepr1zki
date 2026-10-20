@@ -92,9 +92,6 @@ Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset s
 | :--- | :--- | :--- | :--- |
 | **AI CLI Pentester** | AI Agent & Security Automation | `Python` `OpenAI` `Rich` | 🔒 *Repositori Privat* |
 | [**OJS Security Plugin**](https://github.com/4sepr1zki/plugin) | OJS & Web Security | `PHP` `Smarty` | 🟢 [Lihat Repositori](https://github.com/4sepr1zki/plugin) |
-| **ASEPOSINT** | OSINT & Reconnaissance | `Python` `APIs` | 🔄 *Proses migrasi* |
-| **Security Scanner Utility** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
-| **Server Hardening Scripts** | Infrastruktur & Pengamanan Server | `Bash` `Linux` | 🔄 *Penyusunan dokumentasi* |
 
 ---
 
