@@ -16,8 +16,6 @@
 
 ## 📌 Tentang Saya
 
-## 📌 Tentang Saya
-
 Saya Asep Rizki Ramadhan, mahasiswa Program Studi Sistem Teknologi Informasi di Institut Teknologi & Bisnis Semarang yang memiliki ketertarikan pada dunia IT, khususnya **Cybersecurity** dengan fokus pada **Penetration Testing** dan keamanan aplikasi web.
 
 Saya mempelajari keamanan sistem melalui praktik langsung, mulai dari mengidentifikasi dan menganalisis kerentanan aplikasi web hingga melakukan pelaporan melalui program seperti bug bounty atau VDP. Selain itu, saya juga memiliki pengalaman dalam **System Administration (SysAdmin)**, khususnya pengelolaan server Linux, *server hardening*, konfigurasi web server, serta investigasi dan penanganan insiden keamanan siber.
