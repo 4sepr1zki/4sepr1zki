@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo, Saya Asep Rizki Ramadhan 👋
-### `Cybersecurity Enthusiast | Web Security Researcher | Security Tool Developer`
+### `Cybersecurity Researcher | SysAdmin | Security Tool Developer`
 
 <p align="center">
   <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Lokasi-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Lokasi" /></a>
