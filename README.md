@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo, Saya Asep Rizki Ramadhan 👋
-### `Cybersecurity Enthusiast | Web Security Researcher | Security Tool Developer`
+### `Cybersecurity Researcher | SysAdmin  | Security Tool Developer`
 
 <p align="center">
   <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Lokasi-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Lokasi" /></a>
@@ -16,9 +16,8 @@
 
 ## 📌 Tentang Saya
 
-Saya adalah mahasiswa Sistem Informasi dan Teknologi dari Indonesia dengan ketertarikan mendalam pada **Cybersecurity**, **Web Application Security**, dan **Vulnerability Research**.
-
-Perjalanan belajar saya berakar pada praktik langsung dan eksplorasi mandiri. Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih tangguh.
+Saya adalah mahasiswa Sistem Teknologi Informasi dari Institut Teknologi & Bisnis Semarang, 
+Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih aman.
 
 - 🔍 **Riset & Praktik Nyata**: Mempelajari *attack surfaces*, menganalisis kerentanan, dan berpartisipasi dalam *responsible disclosure*.
 - 🛠️ **Pengembangan Tools**: Mengembangkan skrip otomatisasi dan utilitas untuk membantu proses asesmen keamanan.
@@ -121,5 +120,5 @@ Terbuka untuk diskusi seputar topik keamanan siber, riset kerentanan, maupun kol
 
 ---
 <div align="center">
-  <sub>"Keamanan siber adalah proses berkelanjutan untuk terus belajar, menguji, dan memperkuat pertahanan."</sub>
+  <sub>"Security Not A Product, But A Process."</sub>
 </div>
