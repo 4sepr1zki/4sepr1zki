@@ -107,9 +107,9 @@ Template for adding new repositories:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=4sepr1zki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00ADB5&text_color=c9d1d9" alt="Asep's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4sepr1zki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00ADB5&text_color=c9d1d9" alt="Asep's GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4sepr1zki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=4sepr1zki&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00ADB5&currStreakLabel=00d26a" alt="Asep's GitHub Streak" />
 
 </div>
 
