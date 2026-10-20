@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo, Saya Asep Rizki Ramadhan 👋
-### `Cybersecurity Researcher | SysAdmin  | Security Tool Developer`
+### `Cybersecurity Enthusiast | Web Security Researcher | Security Tool Developer`
 
 <p align="center">
   <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Lokasi-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Lokasi" /></a>
@@ -16,18 +16,21 @@
 
 ## 📌 Tentang Saya
 
-Saya Asep Rizki Ramadhan, mahasiswa Program Studi Sistem Teknologi Informasi di Institut Teknologi & Bisnis Semarang yang memiliki ketertarikan pada dunia IT, khususnya **Cybersecurity** dengan fokus pada **Penetration Testing** dan keamanan aplikasi web.
+Saya adalah mahasiswa Sistem Informasi dan Teknologi dari Indonesia dengan ketertarikan mendalam pada **Cybersecurity**, **Web Application Security**, dan **Vulnerability Research**.
 
-Saya mempelajari keamanan sistem melalui praktik langsung, mulai dari mengidentifikasi dan menganalisis kerentanan aplikasi web hingga melakukan pelaporan melalui program seperti bug bounty atau VDP. Selain itu, saya juga memiliki pengalaman dalam **System Administration (SysAdmin)**, khususnya pengelolaan server Linux, *server hardening*, konfigurasi web server, serta investigasi dan penanganan insiden keamanan siber.
+Perjalanan belajar saya berakar pada praktik langsung dan eksplorasi mandiri. Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih tangguh.
 
-Saat ini, saya terus mengembangkan kemampuan di bidang keamanan aplikasi web dan infrastruktur server, sekaligus mengeksplorasi pengembangan tools untuk membantu proses asesmen dan otomatisasi keamanan.
+- 🔍 **Riset & Praktik Nyata**: Mempelajari *attack surfaces*, menganalisis kerentanan, dan berpartisipasi dalam *responsible disclosure*.
+- 🛠️ **Pengembangan Tools**: Mengembangkan skrip otomatisasi dan utilitas untuk membantu proses asesmen keamanan.
+- 🛡️ **Pertahanan & Hardening**: Berpengalaman dalam pengelolaan server Linux, *security hardening* web server (Nginx/Apache), investigasi insiden (*website defacement*), dan deteksi *webshell*.
+- ⚖️ **Prinsip Etis**: Berkomitmen penuh pada etika *responsible disclosure* serta pengujian hanya pada lingkungan yang telah memiliki izin resmi (*authorized testing*).
 
 ---
 
 ## 🎯 Fokus Saat Ini
 
-- Mendalami lebih lanjut Penetration Testing sesuai standar **OWASP Top 10**.
-- Mengembangkan tools asesmen keamanan otomatis berbasis **AI**.
+- Mendalami metodologi **Web Application Penetration Testing** dan standar **OWASP Top 10**.
+- Mengembangkan tools asesmen keamanan otomatis berbasis **Python**.
 - Mengeksplorasi keamanan CMS dan platform akademik, khususnya ekosistem **WordPress** dan **Open Journal Systems (OJS)**.
 - Meningkatkan ketahanan server melalui *systematic hardening* dan analisis mitigasi insiden siber.
 
@@ -73,7 +76,7 @@ Saat ini, saya terus mengembangkan kemampuan di bidang keamanan aplikasi web dan
 
 ---
 
-## 🔬 Pengalaman
+## 🔬 Riset Keamanan & Responsible Disclosure
 
 Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset saya:
 
@@ -85,12 +88,11 @@ Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset s
 
 ## 📂 Proyek Pilihan
 
-*Saat ini sedang dalam proses pemindahan dan pembaruan repositori ke akun ini:*
-
 | Proyek | Bidang | Teknologi | Status / Repositori |
 | :--- | :--- | :--- | :--- |
-| **PLUGIN** | Menutup Celah Keamanan | `OJS ( OPEN JOURNAL SYSTEM )` | 🔄 *Proses migrasi* |
-| **AI Security Scanner** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
+| [**OJS Security Plugin**](https://github.com/4sepr1zki/plugin) | OJS & Web Security | `PHP` `Smarty` | 🟢 [Lihat Repositori](https://github.com/4sepr1zki/plugin) |
+| **ASEPOSINT** | OSINT & Reconnaissance | `Python` `APIs` | 🔄 *Proses migrasi* |
+| **Security Scanner Utility** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
 | **Server Hardening Scripts** | Infrastruktur & Pengamanan Server | `Bash` `Linux` | 🔄 *Penyusunan dokumentasi* |
 
 ---
@@ -118,5 +120,5 @@ Terbuka untuk diskusi seputar topik keamanan siber, riset kerentanan, maupun kol
 
 ---
 <div align="center">
-  <sub>"Security Not A Product, But A Process."</sub>
+  <sub>"Keamanan siber adalah proses berkelanjutan untuk terus belajar, menguji, dan memperkuat pertahanan."</sub>
 </div>
