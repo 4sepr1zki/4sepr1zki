@@ -1,44 +1,44 @@
 <div align="center">
 
-# Hi there, I'm Asep Rizki Ramadhan 👋
+# Halo, Saya Asep Rizki Ramadhan 👋
 ### `Cybersecurity Enthusiast | Web Security Researcher | Security Tool Developer`
 
 <p align="center">
-  <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Location-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Focus-Web%20Security%20%26%20Research-00ADB5?style=flat-square&logo=target&logoColor=white" alt="Focus" /></a>
+  <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Lokasi-Indonesia-00d26a?style=flat-square&logo=googlemaps&logoColor=white" alt="Lokasi" /></a>
+  <a href="https://github.com/4sepr1zki"><img src="https://img.shields.io/badge/Fokus-Web%20Security%20%26%20Research-00ADB5?style=flat-square&logo=target&logoColor=white" alt="Fokus" /></a>
   <a href="mailto:aseprizkir4@gmail.com"><img src="https://img.shields.io/badge/Email-aseprizkir4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/"><img src="https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 </div>
 
-## 📌 About Me
+## 📌 Tentang Saya
 
-I am an Information Systems & Technology undergraduate student from Indonesia with a dedicated passion for **Cybersecurity**, **Web Application Security**, and **Vulnerability Research**.
+Saya adalah mahasiswa Sistem Informasi dan Teknologi dari Indonesia dengan ketertarikan mendalam pada **Cybersecurity**, **Web Application Security**, dan **Vulnerability Research**.
 
-My journey is driven by practical exploration and hands-on problem solving. I focus on understanding how web applications operate under the hood, how security vulnerabilities arise, how threats can be reliably detected, and how digital infrastructures can be fortified against modern attack vectors.
+Perjalanan belajar saya berakar pada praktik langsung dan eksplorasi mandiri. Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih tangguh.
 
-- 🔍 **Practical Research**: Exploring attack surfaces and participating in responsible vulnerability disclosure.
-- 🛠️ **Tool Engineering**: Building automation scripts and utilities to streamline security assessment workflows.
-- 🛡️ **Defense & Hardening**: Experienced in Linux server administration, web server hardening (Nginx/Apache), and remediation of incidents like webshell detection and defacement.
-- ⚖️ **Ethics First**: Strongly committed to responsible disclosure principles and authorized-only testing.
-
----
-
-## 🎯 Current Focus
-
-- Deepening knowledge in **Web Application Penetration Testing** and **OWASP Top 10** methodologies.
-- Developing modular, automated security tools using **Python**.
-- Researching CMS security landscapes, specifically **WordPress** and **Open Journal Systems (OJS)** environments.
-- Strengthening server defense through systematic security hardening and incident triage analysis.
+- 🔍 **Riset & Praktik Nyata**: Mempelajari *attack surfaces*, menganalisis kerentanan, dan berpartisipasi dalam *responsible disclosure*.
+- 🛠️ **Pengembangan Tools**: Mengembangkan skrip otomatisasi dan utilitas untuk membantu proses asesmen keamanan.
+- 🛡️ **Pertahanan & Hardening**: Berpengalaman dalam pengelolaan server Linux, *security hardening* web server (Nginx/Apache), investigasi insiden (*website defacement*), dan deteksi *webshell*.
+- ⚖️ **Prinsip Etis**: Berkomitmen penuh pada etika *responsible disclosure* serta pengujian hanya pada lingkungan yang telah memiliki izin resmi (*authorized testing*).
 
 ---
 
-## 🛠️ Technical Stack & Tools
+## 🎯 Fokus Saat Ini
 
-### **Languages & Core Development**
+- Mendalami metodologi **Web Application Penetration Testing** dan standar **OWASP Top 10**.
+- Mengembangkan tools asesmen keamanan otomatis berbasis **Python**.
+- Mengeksplorasi keamanan CMS dan platform akademik, khususnya ekosistem **WordPress** dan **Open Journal Systems (OJS)**.
+- Meningkatkan ketahanan server melalui *systematic hardening* dan analisis mitigasi insiden siber.
+
+---
+
+## 🛠️ Kemampuan Teknis & Tools
+
+### **Bahasa Pemrograman & Pengembangan Web**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -49,7 +49,7 @@ My journey is driven by practical exploration and hands-on problem solving. I fo
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### **Security Assessment & Research Tools**
+### **Tools Keamanan & Security Assessment**
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-005571?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP" />
@@ -62,7 +62,7 @@ My journey is driven by practical exploration and hands-on problem solving. I fo
   <img src="https://img.shields.io/badge/Nikto-555555?style=flat-square&logo=linux&logoColor=white" alt="Nikto" />
 </p>
 
-### **Systems, Infrastructure & Databases**
+### **Infrastruktur, Sistem Operasi & Database**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
@@ -72,59 +72,54 @@ My journey is driven by practical exploration and hands-on problem solving. I fo
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-> *Note: The tools and technologies above represent items actively studied, explored, or utilized in hands-on lab environments and authorized testing projects.*
+> *Catatan: Daftar teknologi di atas merupakan perangkat yang aktif saya pelajari, eksplorasi, serta terapkan dalam pengujian lab mandiri maupun proyek pengetesan berizin.*
 
 ---
 
-## 🔬 Security Research & Responsible Disclosure
+## 🔬 Riset Keamanan & Responsible Disclosure
 
-Ethical security practices form the foundation of my work:
+Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset saya:
 
-- **Ethical Boundary**: All security scanning, reconnaissance, and assessments are performed exclusively on systems where explicit authorization has been granted, or within local lab environments.
-- **Responsible Disclosure**: When discovering potential misconfigurations or vulnerabilities in digital systems, findings are coordinated and reported directly to responsible stakeholders following standardized reporting practices without public premature disclosure.
-- **Root-Cause Analysis**: Striving to provide actionable remediation advice alongside vulnerability reports to ensure long-term defense improvements.
+- **Batasan Etis**: Seluruh aktivitas pemindaian, pengintaian (*reconnaissance*), dan asesmen keamanan hanya dijalankan pada sistem yang telah memberikan izin resmi, atau pada lingkungan laboratorium lokal.
+- **Responsible Disclosure**: Apabila menemukan kerentanan atau miskonfigurasi, pelaporan dikoordinasikan secara tertutup langsung kepada pihak pengelola terkait sesuai prosedur pelaporan etis tanpa publikasi prematur.
+- **Analisis Akar Masalah**: Mengutamakan penyusunan rekomendasi mitigasi dan perbaikan struktural untuk membantu memperkuat sistem secara berkelanjutan.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyek Pilihan
 
-*Currently migrating and refreshing select repositories to this account. Below are active and upcoming projects:*
+*Saat ini sedang dalam proses pemindahan dan pembaruan repositori ke akun ini:*
 
-| Project | Domain | Tech Stack | Status / Repository |
+| Proyek | Bidang | Teknologi | Status / Repositori |
 | :--- | :--- | :--- | :--- |
-| **ASEPOSINT** | OSINT / Reconnaissance | `Python` `APIs` | 🔄 *Migration in progress* |
-| **Security Scanner Utility** | Web Vulnerability Scanning | `Python` `Bash` `CLI` | 🔄 *Migration in progress* |
-| **Server Hardening Scripts** | Infrastructure & Hardening | `Bash` `Linux` | 🔄 *Preparing documentation* |
-
-<!--
-Template for adding new repositories:
-| [Project Name](https://github.com/4sepr1zki/repo-name) | Brief 1-line description of the project and key features | `Tech1` `Tech2` | [View Repo](https://github.com/4sepr1zki/repo-name) |
--->
+| **ASEPOSINT** | OSINT & Reconnaissance | `Python` `APIs` | 🔄 *Proses migrasi* |
+| **Security Scanner Utility** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
+| **Server Hardening Scripts** | Infrastruktur & Pengamanan Server | `Bash` `Linux` | 🔄 *Penyusunan dokumentasi* |
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 Metrik Aktivitas GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4sepr1zki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00ADB5&text_color=c9d1d9" alt="Asep's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4sepr1zki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00ADB5&text_color=c9d1d9" alt="Statistik GitHub Asep" />
 
-<img src="https://streak-stats.demolab.com?user=4sepr1zki&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00ADB5&currStreakLabel=00d26a" alt="Asep's GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=4sepr1zki&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00ADB5&currStreakLabel=00d26a" alt="Streak GitHub Asep" />
 
 </div>
 
 ---
 
-## 📬 Connect & Contact
+## 📬 Kontak & Kolaborasi
 
-Feel free to connect, discuss security topics, or collaborate on open-source tools:
+Terbuka untuk diskusi seputar topik keamanan siber, riset kerentanan, maupun kolaborasi pengembangan tools:
 
 - 🌐 **GitHub**: [@4sepr1zki](https://github.com/4sepr1zki)
 - 💼 **LinkedIn**: [Asep Rizki Ramadhan](https://www.linkedin.com/in/asep-rizki-ramadhan-a17888378/)
-- ✍️ **Blog / Articles**: [Kompasiana Profile](https://www.kompasiana.com/aseprizki4578)
+- ✍️ **Artikel / Blog**: [Profil Kompasiana](https://www.kompasiana.com/aseprizki4578)
 - ✉️ **Email**: [aseprizkir4@gmail.com](mailto:aseprizkir4@gmail.com)
 
 ---
 <div align="center">
-  <sub>"Security is a continuous process of learning, assessing, and fortifying."</sub>
+  <sub>"Keamanan siber adalah proses berkelanjutan untuk terus belajar, menguji, dan memperkuat pertahanan."</sub>
 </div>
