@@ -112,5 +112,5 @@ Terbuka untuk diskusi seputar topik keamanan siber, riset kerentanan, maupun kol
 
 ---
 <div align="center">
-  <sub>"Keamanan siber adalah proses berkelanjutan untuk terus belajar, menguji, dan memperkuat pertahanan."</sub>
+  <sub>"Security is a process, not a product."</sub>
 </div>
