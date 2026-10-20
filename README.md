@@ -16,13 +16,7 @@
 
 ## 📌 Tentang Saya
 
-Saya adalah mahasiswa Sistem Teknologi Informasi dari Institut Teknologi & Bisnis Semarang, 
-Saya berfokus pada pemahaman cara kerja aplikasi web, bagaimana celah keamanan muncul, cara mendeteksi serangan secara efektif, serta bagaimana memperkuat (*hardening*) infrastruktur sistem digital agar lebih aman.
-
-- 🔍 **Riset & Praktik Nyata**: Mempelajari *attack surfaces*, menganalisis kerentanan, dan berpartisipasi dalam *responsible disclosure*.
-- 🛠️ **Pengembangan Tools**: Mengembangkan skrip otomatisasi dan utilitas untuk membantu proses asesmen keamanan.
-- 🛡️ **Pertahanan & Hardening**: Berpengalaman dalam pengelolaan server Linux, *security hardening* web server (Nginx/Apache), investigasi insiden (*website defacement*), dan deteksi *webshell*.
-- ⚖️ **Prinsip Etis**: Berkomitmen penuh pada etika *responsible disclosure* serta pengujian hanya pada lingkungan yang telah memiliki izin resmi (*authorized testing*).
+saya Asep Rizki seorang mahasiswa Sistem Teknologi Informasi dari Institut Teknologi & Bisnis Semarang, yang berfokus mempelajari dunia IT, khususnya Penetration testing sebagai salah satu bidang cyber security, selain itu saya juga berpengalaman dalam melakukan hardening server (SysAdmin). 
 
 ---
 
@@ -91,8 +85,8 @@ Praktik keamanan yang etis merupakan fondasi utama dalam setiap kegiatan riset s
 
 | Proyek | Bidang | Teknologi | Status / Repositori |
 | :--- | :--- | :--- | :--- |
-| **ASEPOSINT** | OSINT & Reconnaissance | `Python` `APIs` | 🔄 *Proses migrasi* |
-| **Security Scanner Utility** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
+| **PLUGIN** | Menutup Celah Keamanan | `OJS ( OPEN JOURNAL SYSTEM )` | 🔄 *Proses migrasi* |
+| **AI Security Scanner** | Pemindaian Kerentanan Web | `Python` `Bash` `CLI` | 🔄 *Proses migrasi* |
 | **Server Hardening Scripts** | Infrastruktur & Pengamanan Server | `Bash` `Linux` | 🔄 *Penyusunan dokumentasi* |
 
 ---
